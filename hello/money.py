@@ -1,0 +1,2 @@
+print "dollars"
+print "yuan"
